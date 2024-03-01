@@ -19,7 +19,7 @@ include ('includes/header.html');
                <div class="border-left">
                	<div class="border-right">
                   	<div class="inner">
-                   	  <h2>About Bel Resturant</h2>
+                   	  <h2>About Henk Resturant</h2>
                         <p><img src="images/food/food.png" width="125" height="99" align="left" />Bel Resturant is the largest casual dining chain in the world, with locations throughout the U.S. and many countries worldwide. We take pride in having a friendly, welcoming, neighborhood environment for both <br>
                         our staff and guests that makes everyone enjoy their bels experience.<p>If you're looking for a fabulous career with a great social environment, apply to become part of the Bel's family. Hand-cut steaks, award winning ribs, fresh-baked bread and made from scratch side items are the standard at Texas Roadhouse. </p>
                         <p>All of our food is created from scratch with only the highest quality-freshest ingredients. We combine large portions and great value to give you Legendary Food at a reasonable price.
